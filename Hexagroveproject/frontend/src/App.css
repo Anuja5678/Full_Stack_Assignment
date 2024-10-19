@@ -1,0 +1,625 @@
+.fullwork{
+  height: 182px;
+  background-color: rgb(215, 219, 224);
+}
+
+.navbar{
+  height: 40px;
+  background-color: rgb(34, 138, 145);
+}
+.header{
+  color: white;
+}
+
+.leftnav{
+  padding-left: 20px;
+  padding-right: 630px;
+  position: absolute;
+  top: 6px;
+}
+
+.leftnav a{
+  margin: 10px;
+}
+
+.rightnav a{
+  margin: 10px;
+}
+
+.rightnav{
+  margin-left: 83%;
+  position: absolute;
+  top: 6px;
+}
+
+.leftbar{
+  height: 400px;
+  width: 50%;
+  background-color: white;
+  border-radius: 10px;
+  margin: 20px 15px 20px 15px;
+}
+
+.leftsidebar{
+  position: absolute;
+  top: 43px;
+}
+
+#profileimage{
+  border-radius: 10px;
+  width: 300px;
+  height: 150px;
+  margin-top: -5px;
+}
+
+.leftbar p{
+  margin-left: 20px;
+}
+
+.leftbar1{
+  height: 230px;
+  width: 50%;
+  background-color: white;
+  border-radius: 10px;
+  margin: 20px 15px 20px 15px;
+}
+
+.text{
+  margin-left: 20px;
+}
+
+
+#header3{
+  margin-left: 20px;
+}
+
+.content{
+  background-color: rgb(253, 253, 255);
+  /* height: 100px;
+  width: 305px; */
+  border-radius: 10px;
+  padding: 10px 139px 70px 10px;
+  border: 1px solid rgba(134, 127, 127, 0.5);
+  border-top: 1px solid white;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.leftbar1 a{
+  margin: 0px -10px 10px 20px;
+}
+
+.leftbar1 button{
+  margin-left: 106px;
+  border-radius: 5px;
+  background-color: rgb(34, 138, 145);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
+
+.rightsidebar{
+  position: absolute;
+  top: 65px;
+  left: 75%;
+  height: 240px;
+  width: 23%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.rightsidebar1{
+  position: absolute;
+  top: 44%;
+  left: 75%;
+  height: 110px;
+  width: 23%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.rightsidebar h3{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.rightsidebar a{
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.rightsidebar p{
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+#attribute{
+  margin-top: 35px;
+  font-weight: bold;
+}
+
+.rightsidebar p span{
+  margin-left: 5px;
+}
+
+#p1{
+  margin-left: 76px;
+}
+
+#p2{
+  margin-left: 76px;
+}
+
+#span1{
+  font-weight: bold;
+}
+
+#span2{
+  font-weight: bold;
+}
+
+.rightsidebar1 h3{
+  margin-left: 20px;
+}
+
+.rightsidebar1 p{
+  margin-left: 20px;
+}
+
+.midbar{
+  position: absolute;
+  top: 9%;
+  left: 25%;
+  height: 600px;
+  width: 48.7%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.midbar h3{
+  margin-left: 35px;
+}
+
+#top{
+  margin-left: 35px;
+  background-color: rgb(34, 138, 145);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#top1{
+  margin-left: 10px;
+  background-color: rgb(34, 138, 145);
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.Video{
+  background-color: rgb(207, 223, 223);
+  margin: 10px 10px 10px 35px;
+  padding: 140px 280px;
+  border-radius: 10px;
+}
+
+.bottomdiv{
+  background-color: rgb(204, 231, 237);
+  margin: 0px 10px 10px 35px;
+  padding: 8px 200px;
+  border-radius: 10px;
+}
+
+.bottomdiv span{
+  margin-left: 55px;
+}
+
+.bottomdiv p{
+  margin-left: 88px;
+  margin-top: 5px;
+}
+
+.bottomdiv p button{
+  background-color: rgb(34, 138, 145);
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+#why{
+  margin: 35px;
+  font-weight: bold;
+}
+
+.topdiv1{
+  background-color: yellow;
+  height: 100%;
+  width: 8px;
+  position: absolute;
+  left: 8px;
+}
+
+.topdiv2{
+  background-color: rgb(4, 0, 255);
+  height: 100%;
+  width: 8px;
+  position: absolute;
+}
+
+.topdiv1 h6{
+  position: absolute;
+  transform: rotate(269deg);
+  top: 250px;
+  left: -9px;
+}
+
+.topdiv2 h6{
+  position: absolute;
+  transform: rotate(269deg);
+  top: 250px;
+  left: -16px;
+}
+
+#button1{
+  padding: 0px 274px;
+  position: absolute;
+  right: 438px;
+  top: 291px;
+  transform: rotate(270deg);
+  background-color: red;
+}
+
+#button2{
+  padding: 0px 283px;
+  position: absolute;
+  right: 420px;
+  top: 291.5px;
+  transform: rotate(270deg);
+  background-color: rgb(196, 243, 9);
+}
+
+.completesocio{
+  position: absolute;
+  top: 8.9%;
+  left: 25.5%;
+  height: 601px;
+  width: 48%;
+  background-color: white;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.completesocio h1{
+  margin-left: 10px;
+}
+
+#para1{
+  margin-left: 10px;
+  margin-right: 90px;
+}
+
+.para2div{
+  margin-left: 10px;
+  margin-right: 100px;
+  background-color: rgb(236, 230, 230);
+  height: 70px;
+  padding: 10px 0px 0px 20px;
+  border-radius: 10px;
+}
+
+#para3{
+  margin-left: 10px;
+}
+
+#span1{
+  margin-left: 10px;
+}
+
+#sociobutton{
+  margin-left: 248px;
+  padding: 7px 43px 7px 14px;
+  background-color: rgb(34, 138, 145);
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+#future{
+  transform: rotate(269deg);
+  color: rgb(34, 138, 145);
+  position: absolute;
+  right: -2px;
+  top: 270px;
+  font-weight: bold;
+}
+
+.completepro{
+  position: absolute;
+  top: 9%;
+  left: 24.5%;
+  height: 600px;
+  width: 49%;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.card{
+  background-color: rgb(227, 224, 224);
+  margin: 15px 95px 15px 15px;
+  height: 30px;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+#heading1{
+  margin-left: 15px;
+}
+
+.card button{
+  margin-left: 208px;
+  border: none;
+  padding: 5px 15px;
+  background-color: rgb(34, 138, 145);
+  border-radius: 5px;
+  color: white;
+}
+
+#other{
+  margin-left: 225px;
+}
+
+.empty{
+  background-color: rgb(227, 224, 224);
+  margin: 15px 95px 15px 15px;
+  height: 150px;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.logo{
+  margin: 15px;
+}
+
+.logo span{
+  margin-right: 119px;
+}
+
+#title{
+  margin: 5px 15px 0px 15px;
+  padding: 7px 350px 7px 4px;
+  border-radius: 5px;
+  border: 1px solid rgb(192, 186, 186);
+}
+
+#save{
+  padding: 5px 15px;
+  background-color: rgb(34, 138, 145);
+  border: none;
+  border-radius: 5px;
+  margin-right: 5px;
+  color: white;
+}
+
+#invite{
+  margin-left: 5px;
+  text-decoration: none;
+}
+
+#notepad{
+  margin: 15px;
+}
+
+.list{
+  background-color: rgb(227, 224, 224);
+  margin: 15px 95px 15px 15px;
+  height: 50px;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.list h4{
+  margin: -5px;
+}
+
+.list p{
+  margin-left: -5px;
+}
+
+.list span{
+  position: absolute;
+  right: 120px;
+  bottom: 80px;
+}
+
+#button3{
+  padding: 0px 283px;
+  position: absolute;
+  left: 384px;
+  top: 290px;
+  transform: rotate(270deg);
+  background-color: rgb(201, 245, 4);
+}
+
+#future1{
+  transform: rotate(269deg);
+  color: rgb(34, 138, 145);
+  position: absolute;
+  right: -2px;
+  top: 270px;
+  font-weight: bold;
+}
+
+label {
+  position: absolute;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+  bottom: 38px;
+  left: 305px;
+}
+
+/* #toggleinput {
+  opacity: 0;
+  width: 0;
+  height: 0;
+} */
+
+#togglespan {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: 0.3s;
+  cursor: pointer;
+  background: #2c3e50;
+  border-radius: 30px;
+  border: 1px solid black;
+}
+
+#togglespan:before {
+  position: absolute;
+  content: "";
+  height: 15px;
+  width: 15px;
+  left: 3px;
+  bottom: 2.6px;
+  background-color: #fff;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+#toggleinput:checked + #togglespan {
+  background-color: #f4f7f5;
+}
+
+#toggleinput:checked + #togglespan:before {
+  transform: translateX(18px);
+  background-color: black;
+}
+
+#add{
+  margin-left: 20px;
+}
+
+#toggle1 {
+  position: absolute;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+  bottom: 330px;
+  left: 597px;
+}
+
+#togglespan1 {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: 0.3s;
+  cursor: pointer;
+  background: #2c3e50;
+  border-radius: 30px;
+  border: 1px solid black;
+}
+
+#togglespan1:before {
+  position: absolute;
+  content: "";
+  height: 15px;
+  width: 15px;
+  left: 3px;
+  bottom: 2.6px;
+  background-color: #fff;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+#toggleinput1:checked + #togglespan1 {
+  background-color: #f4f7f5;
+}
+
+#toggleinput1:checked + #togglespan1:before {
+  transform: translateX(18px);
+  background-color: black;
+}
+
+#button4{
+  padding: 0px 275px;
+  position: absolute;
+  right: 434px;
+  top: 290px;
+  transform: rotate(270deg);
+  background-color: red;
+}
+
+.completesocio h2{
+  margin-left: 10px;
+}
+
+#img1{
+  height: 25px;
+  width: 25px;
+  margin-top: 3px;
+  margin-bottom: -7px;
+}
+
+#img12{
+  height: 25px;
+  width: 25px;
+  margin-top: 3px;
+  margin-bottom: -7px;
+}
+
+#img13{
+  height: 25px;
+  width: 25px;
+  margin-top: 3px;
+  margin-bottom: -7px;
+}
+
+#img4{
+  height: 18px;
+  width: 15px;
+  margin-bottom: -3px;
+}
+
+#img5{
+  height: 12px;
+  width: 15px;
+}
+
+#img3{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  bottom: 125px;
+  left: 220px;
+}
+
+#socioimg{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  bottom: 289.8px;
+  right: 110px;
+}
+
+#eduimg{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+}
+
+#img15{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+}
